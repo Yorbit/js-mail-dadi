@@ -14,3 +14,12 @@ for (let index = 0; index < emailAccess.length; index++) {
     }
 }
 
+console.log(found);
+
+if (found == true) {
+
+    messageAccess = ('Benvenuto');
+
+}
+
+console.log(messageAccess);
